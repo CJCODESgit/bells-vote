@@ -1,11 +1,11 @@
 import React from "react";
 
-const index = () => {
+const voterList = () => {
   return (
     <div>
-      <p>BELLS VOTES</p>
+
     </div>
   )
 }
 
-export default index
+export default voterList
